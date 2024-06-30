@@ -1,0 +1,36 @@
+
+## Ngôn ngữ lập trình và công nghệ
+* Ngôn ngữ: HTML, CSS, JavaScript.
+* Công nghệ sử dụng: Node.js.
+* Database: MongoDB.
+
+## Môi trường phát triển
+* NodeJS 10.15.3
+* Microsoft Visual Code 1.41.1
+
+## Cài đặt
+* Tải và cài đặt [NodeJS](https://nodejs.org/en/).
+* Tải và cài đặt [Microsoft Visual Code](https://code.visualstudio.com/).
+
+Chạy command line trong thư mục vừa được clone về, thực thi dòng lệnh sau:
+> npm install
+
+Sau khi cài đặt hoàn thành, tiếp tục thực hiện dòng lệnh sau:
+> node app.js
+
+Khi quá trình biên dịch hoàn tất, hãy truy cập vào địa chỉ `http://localhost:3000`
+
+## Thư viện
+* [Export from JSON](https://www.npmjs.com/package/export-from-json)
+* [File Saver](https://www.npmjs.com/package/file-saver)
+* [express](https://www.npmjs.com/package/express)
+* [nodemon](https://www.npmjs.com/package/nodemon)
+* [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
+* [bcryptjs](https://www.npmjs.com/package/bcryptjs)
+* [cookie-parser](https://www.npmjs.com/package/cookie-parser)
+* [body-parser](https://www.npmjs.com/package/body-parser)
+* [flash](https://www.npmjs.com/package/flash)
+* [dotenv](https://www.npmjs.com/package/dotenv)
+* [express-session](https://www.npmjs.com/package/express-session)
+* [body-parser](https://www.npmjs.com/package/body-parser)
+* [connect-mongodb-session](https://www.npmjs.com/package/connect-mongodb-session)
